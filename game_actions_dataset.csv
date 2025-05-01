@@ -1,0 +1,1500 @@
+text,label
+"""Pause menu music volume slider""",0
+"""Click play to start the adventure""",2
+"""Play demo button available on store page""",2
+"""Continue option loads last saved game""",2
+"""Quit to menu button needs double click""",1
+"""Mission marker appears as floating arrow""",3
+"""Pause menu button can be remapped""",0
+"""Pause menu has graphics settings""",0
+"""Quit to menu saves automatically""",1
+"""Align camera with directional arrow""",3
+"""Quit to menu button needs double click""",1
+"""Quit option is grayed out during cutscenes""",1
+"""Exit to menu confirmation dialog appears""",1
+"""Pause menu background music is too loud""",0
+"""Press enter to play the game""",2
+"""Quit to menu button needs double click""",1
+"""Press Q to quit to main menu""",1
+"""Where is the quit option located?""",1
+"""The golden arrow guides you through the level""",3
+"""Arrow alignment minigame is optional""",3
+"""Gameplay starts after loading finishes""",2
+"""Arrow direction indicates proper orientation""",3
+"""Pause menu has accessibility options""",0
+"""Pausing during cutscene skips it""",0
+"""Press spacebar to start playing""",2
+"""Pausing the game will stop all action""",0
+"""Pausing during cutscene skips it""",0
+"""Arrow alignment is required to open the door""",3
+"""Pause menu has performance metrics""",0
+"""Quit to menu deactivates achievements""",1
+"""Playing the game unlocks achievements""",2
+"""Arrow alignment mechanic is confusing""",3
+"""Follow the arrow to reach destination""",3
+"""Select quit game to return to main menu""",1
+"""Pause menu has graphics settings""",0
+"""Gameplay tutorial starts automatically""",2
+"""Hidden arrows reveal secret paths""",3
+"""Continue option loads last saved game""",2
+"""Press ESC to access the pause menu""",0
+"""Select new game to play""",2
+"""Arrow alignment minigame is optional""",3
+"""Arrow points to next objective""",3
+"""Rotate until arrow turns green""",3
+"""Game begins when play button is clicked""",2
+"""Gameplay tutorial starts automatically""",2
+"""To pause, press the start button on your controller""",0
+"""Continue option loads last saved game""",2
+"""Play demo button available on store page""",2
+"""Gameplay controls appear on first play""",2
+"""Arrow alignment mechanic is confusing""",3
+"""Gameplay controls appear on first play""",2
+"""Pause menu has accessibility options""",0
+"""Gameplay tutorial starts automatically""",2
+"""Pause menu button can be remapped""",0
+"""Pausing the game will stop all action""",0
+"""Quit to menu saves automatically""",1
+"""Quick quit option available in debug mode""",1
+"""To pause, press the start button on your controller""",0
+"""Play demo button available on store page""",2
+"""Warning appears when trying to quit during mission""",1
+"""Quit to menu option is in settings""",1
+"""Press Q to quit to main menu""",1
+"""Pause menu has performance metrics""",0
+"""Pause menu appears blurry""",0
+"""Quit to menu button needs double click""",1
+"""Quit to menu saves automatically""",1
+"""Custom pause menu backgrounds available""",0
+"""Multiplayer mode requires all players to press play""",2
+"""Custom pause menu backgrounds available""",0
+"""Broken arrow indicator needs fixing""",3
+"""Multiple arrows need simultaneous alignment""",3
+"""Arrow points to next objective""",3
+"""Multiple arrows need simultaneous alignment""",3
+"""Select new game to play""",2
+"""Multiplayer mode requires all players to press play""",2
+"""Click play to start the adventure""",2
+"""Pause menu appears blurry""",0
+"""Pause menu has accessibility options""",0
+"""Press Q to quit to main menu""",1
+"""Pausing the game will stop all action""",0
+"""Follow the arrow to reach destination""",3
+"""Arrow points to next objective""",3
+"""Warning appears when trying to quit during mission""",1
+"""Gameplay starts after loading finishes""",2
+"""Press ESC to access the pause menu""",0
+"""Arrow alignment mechanic is confusing""",3
+"""Select new game to play""",2
+"""Navigation arrow shows the way forward""",3
+"""Multiple arrows need simultaneous alignment""",3
+"""New game button starts the gameplay""",2
+"""Arrow points to next objective""",3
+"""Gameplay starts after loading finishes""",2
+"""Gameplay difficulty can't be changed after starting""",2
+"""Press enter to play the game""",2
+"""Select new game to play""",2
+"""Quit to menu option missing from pause screen""",1
+"""Quitting will lose unsaved progress""",1
+"""Confirm quit to menu with Y key""",1
+"""Pause menu appears blurry""",0
+"""Pause menu background music is too loud""",0
+"""Network games require host to quit to menu""",1
+"""Align the symbols with the arrow markers""",3
+"""Custom pause menu backgrounds available""",0
+"""Align the compass with the flashing arrow""",3
+"""Play with friends option""",2
+"""Align your character with the golden arrow""",3
+"""Navigation arrow shows the way forward""",3
+"""Accidentally quit to menu without saving""",1
+"""Gameplay controls appear on first play""",2
+"""Pausing during cutscene skips it""",0
+"""Select quit game to return to main menu""",1
+"""Pause menu appears blurry""",0
+"""Mission marker appears as floating arrow""",3
+"""Playing the game unlocks achievements""",2
+"""Arrow alignment minigame is optional""",3
+"""Mission marker appears as floating arrow""",3
+"""Broken arrow indicator needs fixing""",3
+"""Play button not responding on title screen""",2
+"""Warning appears when trying to quit during mission""",1
+"""Quit to menu saves automatically""",1
+"""Gameplay difficulty can't be changed after starting""",2
+"""Mission marker appears as floating arrow""",3
+"""Warning appears when trying to quit during mission""",1
+"""Arrow turns red when facing wrong way""",3
+"""Pause menu music volume slider""",0
+"""Multiple arrows need simultaneous alignment""",3
+"""Gameplay controls appear on first play""",2
+"""Pausing the game will stop all action""",0
+"""Click the pause button in the top right corner""",0
+"""Arrow points to next objective""",3
+"""Menu paused unexpectedly during gameplay""",0
+"""Quit to menu deactivates achievements""",1
+"""Select quit game to return to main menu""",1
+"""Arrow alignment affects ending""",3
+"""Gameplay begins after character selection""",2
+"""Arrow direction indicates proper orientation""",3
+"""Multiple arrows need simultaneous alignment""",3
+"""Pause menu has graphics settings""",0
+"""Play button not responding on title screen""",2
+"""How do I return to main menu?""",1
+"""Select quit game to return to main menu""",1
+"""Quick quit option available in debug mode""",1
+"""Mission marker appears as floating arrow""",3
+"""Gameplay speed can be adjusted""",2
+"""Where is the quit option located?""",1
+"""How do I return to main menu?""",1
+"""Press Q to quit to main menu""",1
+"""Are you sure you want to quit to menu?""",1
+"""Pausing during cutscene skips it""",0
+"""Custom pause menu backgrounds available""",0
+"""Press spacebar to start playing""",2
+"""Align the symbols with the arrow markers""",3
+"""Quit to menu option missing from pause screen""",1
+"""Pausing the game will stop all action""",0
+"""Game begins when play button is clicked""",2
+"""Quit to menu option missing from pause screen""",1
+"""Custom pause menu backgrounds available""",0
+"""Pause menu background music is too loud""",0
+"""Quit to menu option missing from pause screen""",1
+"""Pause menu has performance metrics""",0
+"""Click the pause button in the top right corner""",0
+"""The golden arrow guides you through the level""",3
+"""Align the compass with the flashing arrow""",3
+"""Multiplayer mode requires all players to press play""",2
+"""Align your character with the golden arrow""",3
+"""Can't unpause game after opening menu""",0
+"""Select quit game to return to main menu""",1
+"""Pause menu has graphics settings""",0
+"""Quit to menu confirmation has countdown""",1
+"""Rotate until arrow turns green""",3
+"""Pause menu background music is too loud""",0
+"""Arrow alignment is required to open the door""",3
+"""Pause menu has accessibility options""",0
+"""Accidentally quit to menu without saving""",1
+"""Mission marker appears as floating arrow""",3
+"""Arrow alignment mechanic is confusing""",3
+"""Arrow alignment minigame is optional""",3
+"""Gameplay starts after loading finishes""",2
+"""Game begins when play button is clicked""",2
+"""Multiplayer mode requires all players to press play""",2
+"""How do I return to main menu?""",1
+"""Quit to menu confirmation has countdown""",1
+"""Arrow alignment is required to open the door""",3
+"""Gameplay controls appear on first play""",2
+"""Follow the arrow to reach destination""",3
+"""Align your character with the golden arrow""",3
+"""Play button becomes continue after first launch""",2
+"""Navigation arrow shows the way forward""",3
+"""Mission marker appears as floating arrow""",3
+"""Playing the game unlocks achievements""",2
+"""Hidden arrows reveal secret paths""",3
+"""Press enter to play the game""",2
+"""Click play to start the adventure""",2
+"""Gameplay begins after character selection""",2
+"""Play with friends option""",2
+"""Pause menu has accessibility options""",0
+"""Can't unpause game after opening menu""",0
+"""Gameplay difficulty can't be changed after starting""",2
+"""Follow the arrow to reach destination""",3
+"""Quick quit option available in debug mode""",1
+"""Select quit game to return to main menu""",1
+"""Playing the game unlocks achievements""",2
+"""Pausing the game will stop all action""",0
+"""Need to access settings from pause screen""",0
+"""Play button becomes continue after first launch""",2
+"""Quit to menu confirmation has countdown""",1
+"""Game begins when play button is clicked""",2
+"""Pause menu has performance metrics""",0
+"""Align camera with directional arrow""",3
+"""Gameplay tutorial starts automatically""",2
+"""Mission marker appears as floating arrow""",3
+"""Arrow points to next objective""",3
+"""Press spacebar to start playing""",2
+"""Align the compass with the flashing arrow""",3
+"""Navigation arrow shows the way forward""",3
+"""Pause menu appears blurry""",0
+"""Align your character with the golden arrow""",3
+"""Hidden arrows reveal secret paths""",3
+"""Arrow direction indicates proper orientation""",3
+"""Press any button to play""",2
+"""Follow the arrow to reach destination""",3
+"""Need to access settings from pause screen""",0
+"""Quit to menu deactivates achievements""",1
+"""Custom pause menu backgrounds available""",0
+"""Pausing during cutscene skips it""",0
+"""Quit to menu deactivates achievements""",1
+"""Arrow alignment puzzle is timed""",3
+"""Hidden arrows reveal secret paths""",3
+"""Press ESC to access the pause menu""",0
+"""Arrow alignment is required to open the door""",3
+"""Playing the game unlocks achievements""",2
+"""Pause menu music volume slider""",0
+"""Custom pause menu backgrounds available""",0
+"""Game won't start when clicking play""",2
+"""Pause menu has performance metrics""",0
+"""All players must agree to quit to menu""",1
+"""Quit to menu deactivates achievements""",1
+"""Arrow alignment mechanic is confusing""",3
+"""Playing the game unlocks achievements""",2
+"""Arrow alignment puzzle is timed""",3
+"""Network games require host to quit to menu""",1
+"""The golden arrow guides you through the level""",3
+"""Select quit game to return to main menu""",1
+"""Quit to menu deactivates achievements""",1
+"""Arrow points to next objective""",3
+"""Network games require host to quit to menu""",1
+"""Mission marker appears as floating arrow""",3
+"""Play with friends option""",2
+"""Arrow direction indicates proper orientation""",3
+"""How do I return to main menu?""",1
+"""Pausing the game will stop all action""",0
+"""New game button starts the gameplay""",2
+"""Arrow alignment puzzle is timed""",3
+"""Follow the arrow to reach destination""",3
+"""Press Q to quit to main menu""",1
+"""Need to access settings from pause screen""",0
+"""Warning appears when trying to quit during mission""",1
+"""Pause menu has accessibility options""",0
+"""Align camera with directional arrow""",3
+"""Custom pause menu backgrounds available""",0
+"""Pause menu has performance metrics""",0
+"""Quit to menu option is in settings""",1
+"""Click the pause button in the top right corner""",0
+"""Press Q to quit to main menu""",1
+"""Pause menu options: save, load, settings""",0
+"""Quit to menu saves automatically""",1
+"""To pause, press the start button on your controller""",0
+"""Pause menu button can be remapped""",0
+"""Quit option is grayed out during cutscenes""",1
+"""Align camera with directional arrow""",3
+"""Select new game to play""",2
+"""Arrow direction indicates proper orientation""",3
+"""Arrow points to next objective""",3
+"""Follow the arrow to reach destination""",3
+"""Arrow turns red when facing wrong way""",3
+"""Menu paused unexpectedly during gameplay""",0
+"""Press enter to play the game""",2
+"""Play with friends option""",2
+"""Confirm quit to menu with Y key""",1
+"""Align your character with the golden arrow""",3
+"""Game returns to title screen when quitting""",1
+"""Navigation arrow shows the way forward""",3
+"""Accidentally quit to menu without saving""",1
+"""Play button not responding on title screen""",2
+"""Quick quit option available in debug mode""",1
+"""Play with friends option""",2
+"""Gameplay tutorial starts automatically""",2
+"""Quit to menu saves automatically""",1
+"""Pause menu has accessibility options""",0
+"""Pause menu options: save, load, settings""",0
+"""Game returns to title screen when quitting""",1
+"""Arrow alignment puzzle is timed""",3
+"""Arrow turns red when facing wrong way""",3
+"""Arrow alignment mechanic is confusing""",3
+"""Custom pause menu backgrounds available""",0
+"""Pause menu has graphics settings""",0
+"""Play button becomes continue after first launch""",2
+"""Play button not responding on title screen""",2
+"""Align camera with directional arrow""",3
+"""Gameplay controls appear on first play""",2
+"""Where is the quit option located?""",1
+"""Broken arrow indicator needs fixing""",3
+"""Select new game to play""",2
+"""Quit to menu confirmation has countdown""",1
+"""Play tutorial before full game""",2
+"""Press any button to play""",2
+"""Pause menu music volume slider""",0
+"""Pause menu button can be remapped""",0
+"""All players must agree to quit to menu""",1
+"""Quit to menu during boss fight restricted""",1
+"""Arrow alignment mechanic is confusing""",3
+"""The golden arrow guides you through the level""",3
+"""Quit to menu confirmation has countdown""",1
+"""Pause menu appears blurry""",0
+"""Play tutorial before full game""",2
+"""Align the symbols with the arrow markers""",3
+"""Accidentally quit to menu without saving""",1
+"""Play button not responding on title screen""",2
+"""Quit to menu confirmation has countdown""",1
+"""Quick quit option available in debug mode""",1
+"""Quit to menu deactivates achievements""",1
+"""Gameplay begins after character selection""",2
+"""Play with friends option""",2
+"""Mission marker appears as floating arrow""",3
+"""Game won't start when clicking play""",2
+"""Navigation arrow shows the way forward""",3
+"""Arrow turns red when facing wrong way""",3
+"""Select quit game to return to main menu""",1
+"""Confirm quit to menu with Y key""",1
+"""Navigation arrow shows the way forward""",3
+"""Click the pause button in the top right corner""",0
+"""Gameplay difficulty can't be changed after starting""",2
+"""Gameplay difficulty can't be changed after starting""",2
+"""Quit to menu confirmation has countdown""",1
+"""The golden arrow guides you through the level""",3
+"""Play button becomes continue after first launch""",2
+"""Gameplay starts after loading finishes""",2
+"""Align the compass with the flashing arrow""",3
+"""Align the compass with the flashing arrow""",3
+"""Arrows change color based on alignment accuracy""",3
+"""Pausing during cutscene skips it""",0
+"""Quit to menu saves automatically""",1
+"""Pause menu background music is too loud""",0
+"""Align the symbols with the arrow markers""",3
+"""Broken arrow indicator needs fixing""",3
+"""Exit to menu confirmation dialog appears""",1
+"""Hidden arrows reveal secret paths""",3
+"""Playing the game unlocks achievements""",2
+"""Need to access settings from pause screen""",0
+"""Arrow points to next objective""",3
+"""Menu paused unexpectedly during gameplay""",0
+"""Arrow turns red when facing wrong way""",3
+"""Arrows change color based on alignment accuracy""",3
+"""Can't unpause game after opening menu""",0
+"""Gameplay begins after character selection""",2
+"""Game paused, select resume to continue""",0
+"""Click play to start the adventure""",2
+"""Rotate until arrow turns green""",3
+"""Gameplay difficulty can't be changed after starting""",2
+"""Press ESC to access the pause menu""",0
+"""Click the pause button in the top right corner""",0
+"""Pause menu background music is too loud""",0
+"""Press spacebar to start playing""",2
+"""Accidentally quit to menu without saving""",1
+"""Press ESC to access the pause menu""",0
+"""Network games require host to quit to menu""",1
+"""Game won't start when clicking play""",2
+"""Pause menu music volume slider""",0
+"""Click the pause button in the top right corner""",0
+"""Play button becomes continue after first launch""",2
+"""Pause menu button can be remapped""",0
+"""Play button not responding on title screen""",2
+"""New game button starts the gameplay""",2
+"""Align the symbols with the arrow markers""",3
+"""Click the pause button in the top right corner""",0
+"""Multiplayer mode requires all players to press play""",2
+"""Play tutorial before full game""",2
+"""Menu paused unexpectedly during gameplay""",0
+"""Pausing the game will stop all action""",0
+"""Can't unpause game after opening menu""",0
+"""Quitting will lose unsaved progress""",1
+"""Menu paused unexpectedly during gameplay""",0
+"""Press ESC to access the pause menu""",0
+"""Multiple arrows need simultaneous alignment""",3
+"""Play demo button available on store page""",2
+"""Pause menu has performance metrics""",0
+"""The golden arrow guides you through the level""",3
+"""Quit to menu button needs double click""",1
+"""Rotate until arrow turns green""",3
+"""Hidden arrows reveal secret paths""",3
+"""Arrow alignment puzzle is timed""",3
+"""The golden arrow guides you through the level""",3
+"""Pausing during cutscene skips it""",0
+"""Menu paused unexpectedly during gameplay""",0
+"""Can't unpause game after opening menu""",0
+"""Align camera with directional arrow""",3
+"""Pause menu has graphics settings""",0
+"""Need to access settings from pause screen""",0
+"""Can't unpause game after opening menu""",0
+"""Multiple arrows need simultaneous alignment""",3
+"""Align your character with the golden arrow""",3
+"""Alt+F4 forces quit to menu""",1
+"""Menu paused unexpectedly during gameplay""",0
+"""New game button starts the gameplay""",2
+"""Press spacebar to start playing""",2
+"""Align your character with the golden arrow""",3
+"""Custom pause menu backgrounds available""",0
+"""Gameplay starts after loading finishes""",2
+"""Confirm quit to menu with Y key""",1
+"""Quit to menu saves automatically""",1
+"""Select new game to play""",2
+"""Follow the arrow to reach destination""",3
+"""Press enter to play the game""",2
+"""Pause menu background music is too loud""",0
+"""Play demo button available on store page""",2
+"""Multiple arrows need simultaneous alignment""",3
+"""Play button becomes continue after first launch""",2
+"""Arrow alignment is required to open the door""",3
+"""New game button starts the gameplay""",2
+"""Pause menu background music is too loud""",0
+"""Click the pause button in the top right corner""",0
+"""Pause menu background music is too loud""",0
+"""Game begins when play button is clicked""",2
+"""Align the symbols with the arrow markers""",3
+"""Need to access settings from pause screen""",0
+"""Multiple arrows need simultaneous alignment""",3
+"""Click the pause button in the top right corner""",0
+"""Rotate until arrow turns green""",3
+"""All players must agree to quit to menu""",1
+"""The golden arrow guides you through the level""",3
+"""Confirm quit to menu with Y key""",1
+"""Click the pause button in the top right corner""",0
+"""Pause menu button can be remapped""",0
+"""Are you sure you want to quit to menu?""",1
+"""Custom pause menu backgrounds available""",0
+"""Pause menu has graphics settings""",0
+"""Can't unpause game after opening menu""",0
+"""Quit to menu deactivates achievements""",1
+"""Can't unpause game after opening menu""",0
+"""Menu paused unexpectedly during gameplay""",0
+"""Quitting will lose unsaved progress""",1
+"""Continue option loads last saved game""",2
+"""Align camera with directional arrow""",3
+"""Are you sure you want to quit to menu?""",1
+"""Need to access settings from pause screen""",0
+"""Navigation arrow shows the way forward""",3
+"""To pause, press the start button on your controller""",0
+"""Quit to menu button needs double click""",1
+"""Press any button to play""",2
+"""Play button becomes continue after first launch""",2
+"""Arrow alignment minigame is optional""",3
+"""Follow the arrow to reach destination""",3
+"""Game won't start when clicking play""",2
+"""Mission marker appears as floating arrow""",3
+"""Select new game to play""",2
+"""Pause menu appears blurry""",0
+"""Arrow alignment mechanic is confusing""",3
+"""Alt+F4 forces quit to menu""",1
+"""Arrow alignment puzzle is timed""",3
+"""Press any button to play""",2
+"""Play tutorial before full game""",2
+"""Continue option loads last saved game""",2
+"""New game button starts the gameplay""",2
+"""Warning appears when trying to quit during mission""",1
+"""Click the pause button in the top right corner""",0
+"""Press ESC to access the pause menu""",0
+"""Select quit game to return to main menu""",1
+"""Arrow alignment is required to open the door""",3
+"""Play button becomes continue after first launch""",2
+"""The golden arrow guides you through the level""",3
+"""Quit to menu option missing from pause screen""",1
+"""Play with friends option""",2
+"""Menu paused unexpectedly during gameplay""",0
+"""Quit to menu during boss fight restricted""",1
+"""Quit to menu confirmation has countdown""",1
+"""Pause menu background music is too loud""",0
+"""Arrow alignment is required to open the door""",3
+"""Arrow alignment affects ending""",3
+"""Menu paused unexpectedly during gameplay""",0
+"""Game begins when play button is clicked""",2
+"""Quit to menu deactivates achievements""",1
+"""Broken arrow indicator needs fixing""",3
+"""Gameplay speed can be adjusted""",2
+"""Align your character with the golden arrow""",3
+"""Pause menu music volume slider""",0
+"""Pause menu has accessibility options""",0
+"""Press Q to quit to main menu""",1
+"""Play demo button available on store page""",2
+"""Quit to menu option is in settings""",1
+"""Arrow direction indicates proper orientation""",3
+"""Menu paused unexpectedly during gameplay""",0
+"""Arrow alignment minigame is optional""",3
+"""Align the symbols with the arrow markers""",3
+"""Game paused, select resume to continue""",0
+"""Quit to menu during boss fight restricted""",1
+"""Quit to menu deactivates achievements""",1
+"""Quitting will lose unsaved progress""",1
+"""Pause menu background music is too loud""",0
+"""Custom pause menu backgrounds available""",0
+"""Play demo button available on store page""",2
+"""Press ESC to access the pause menu""",0
+"""Alt+F4 forces quit to menu""",1
+"""Align with arrow to complete puzzle""",3
+"""Multiple arrows need simultaneous alignment""",3
+"""Align with arrow to complete puzzle""",3
+"""How do I return to main menu?""",1
+"""Quit to menu button needs double click""",1
+"""Alt+F4 forces quit to menu""",1
+"""Pause menu button can be remapped""",0
+"""Arrow points to next objective""",3
+"""Play button becomes continue after first launch""",2
+"""Pause menu has accessibility options""",0
+"""Navigation arrow shows the way forward""",3
+"""Menu paused unexpectedly during gameplay""",0
+"""Gameplay starts after loading finishes""",2
+"""Align the symbols with the arrow markers""",3
+"""Arrow alignment minigame is optional""",3
+"""Multiplayer mode requires all players to press play""",2
+"""Arrows change color based on alignment accuracy""",3
+"""All players must agree to quit to menu""",1
+"""Select quit game to return to main menu""",1
+"""Select new game to play""",2
+"""Rotate until arrow turns green""",3
+"""Continue option loads last saved game""",2
+"""Quit to menu deactivates achievements""",1
+"""Playing the game unlocks achievements""",2
+"""Quit to menu saves automatically""",1
+"""Mission marker appears as floating arrow""",3
+"""Gameplay begins after character selection""",2
+"""Need to access settings from pause screen""",0
+"""Multiple arrows need simultaneous alignment""",3
+"""Pausing during cutscene skips it""",0
+"""Gameplay tutorial starts automatically""",2
+"""Custom pause menu backgrounds available""",0
+"""Hidden arrows reveal secret paths""",3
+"""The golden arrow guides you through the level""",3
+"""Pause menu has graphics settings""",0
+"""Press enter to play the game""",2
+"""Arrow alignment is required to open the door""",3
+"""Continue option loads last saved game""",2
+"""Game returns to title screen when quitting""",1
+"""Follow the arrow to reach destination""",3
+"""Gameplay speed can be adjusted""",2
+"""Arrows change color based on alignment accuracy""",3
+"""Pause menu options: save, load, settings""",0
+"""Network games require host to quit to menu""",1
+"""Gameplay difficulty can't be changed after starting""",2
+"""Click play to start the adventure""",2
+"""Accidentally quit to menu without saving""",1
+"""Align your character with the golden arrow""",3
+"""Click the pause button in the top right corner""",0
+"""Pausing the game will stop all action""",0
+"""Can't unpause game after opening menu""",0
+"""Arrow alignment mechanic is confusing""",3
+"""Gameplay starts after loading finishes""",2
+"""Align the symbols with the arrow markers""",3
+"""Menu paused unexpectedly during gameplay""",0
+"""Pause menu has accessibility options""",0
+"""Pausing during cutscene skips it""",0
+"""Quit to menu confirmation has countdown""",1
+"""Align the compass with the flashing arrow""",3
+"""Gameplay starts after loading finishes""",2
+"""Playing the game unlocks achievements""",2
+"""Exit to menu confirmation dialog appears""",1
+"""Gameplay difficulty can't be changed after starting""",2
+"""Arrow alignment mechanic is confusing""",3
+"""Game paused, select resume to continue""",0
+"""Pausing the game will stop all action""",0
+"""Pausing during cutscene skips it""",0
+"""Arrow alignment minigame is optional""",3
+"""Mission marker appears as floating arrow""",3
+"""Game returns to title screen when quitting""",1
+"""Rotate until arrow turns green""",3
+"""Pause menu background music is too loud""",0
+"""Exit to menu confirmation dialog appears""",1
+"""Can't unpause game after opening menu""",0
+"""Align camera with directional arrow""",3
+"""Gameplay speed can be adjusted""",2
+"""Align with arrow to complete puzzle""",3
+"""Gameplay tutorial starts automatically""",2
+"""Arrows change color based on alignment accuracy""",3
+"""Rotate until arrow turns green""",3
+"""Select new game to play""",2
+"""Pause menu background music is too loud""",0
+"""Quit to menu button needs double click""",1
+"""Arrow direction indicates proper orientation""",3
+"""Mission marker appears as floating arrow""",3
+"""Exit to menu confirmation dialog appears""",1
+"""Accidentally quit to menu without saving""",1
+"""Press enter to play the game""",2
+"""Game begins when play button is clicked""",2
+"""Need to access settings from pause screen""",0
+"""The golden arrow guides you through the level""",3
+"""Quit to menu option is in settings""",1
+"""Quit to menu confirmation has countdown""",1
+"""Press spacebar to start playing""",2
+"""Press enter to play the game""",2
+"""Where is the quit option located?""",1
+"""Click the pause button in the top right corner""",0
+"""Arrow alignment is required to open the door""",3
+"""Play button becomes continue after first launch""",2
+"""Gameplay speed can be adjusted""",2
+"""Pause menu options: save, load, settings""",0
+"""Quit to menu option missing from pause screen""",1
+"""Pause menu has performance metrics""",0
+"""Pause menu appears blurry""",0
+"""Arrow points to next objective""",3
+"""Align camera with directional arrow""",3
+"""Quit to menu deactivates achievements""",1
+"""Play tutorial before full game""",2
+"""Quit to menu button needs double click""",1
+"""Select quit game to return to main menu""",1
+"""Quit to menu option is in settings""",1
+"""Arrow direction indicates proper orientation""",3
+"""Gameplay tutorial starts automatically""",2
+"""Pausing during cutscene skips it""",0
+"""How do I return to main menu?""",1
+"""Arrow points to next objective""",3
+"""Pause menu music volume slider""",0
+"""Quick quit option available in debug mode""",1
+"""Pause menu has graphics settings""",0
+"""Quitting will lose unsaved progress""",1
+"""Pause menu options: save, load, settings""",0
+"""Arrow alignment affects ending""",3
+"""Quitting will lose unsaved progress""",1
+"""Gameplay controls appear on first play""",2
+"""Play with friends option""",2
+"""Game paused, select resume to continue""",0
+"""New game button starts the gameplay""",2
+"""Can't unpause game after opening menu""",0
+"""Press enter to play the game""",2
+"""Follow the arrow to reach destination""",3
+"""Pause menu has performance metrics""",0
+"""Custom pause menu backgrounds available""",0
+"""Quit to menu option missing from pause screen""",1
+"""Pause menu background music is too loud""",0
+"""Pause menu options: save, load, settings""",0
+"""Rotate until arrow turns green""",3
+"""To pause, press the start button on your controller""",0
+"""Press spacebar to start playing""",2
+"""Can't unpause game after opening menu""",0
+"""Need to access settings from pause screen""",0
+"""Gameplay controls appear on first play""",2
+"""Custom pause menu backgrounds available""",0
+"""Alt+F4 forces quit to menu""",1
+"""Press spacebar to start playing""",2
+"""Arrows change color based on alignment accuracy""",3
+"""Quit to menu deactivates achievements""",1
+"""Play with friends option""",2
+"""Gameplay tutorial starts automatically""",2
+"""Press Q to quit to main menu""",1
+"""Arrow turns red when facing wrong way""",3
+"""Need to access settings from pause screen""",0
+"""Quit to menu button needs double click""",1
+"""Pause menu button can be remapped""",0
+"""Custom pause menu backgrounds available""",0
+"""Press Q to quit to main menu""",1
+"""Pause menu has performance metrics""",0
+"""Pause menu appears blurry""",0
+"""Pausing during cutscene skips it""",0
+"""The golden arrow guides you through the level""",3
+"""Quit to menu during boss fight restricted""",1
+"""How do I return to main menu?""",1
+"""How do I return to main menu?""",1
+"""Arrow alignment mechanic is confusing""",3
+"""Warning appears when trying to quit during mission""",1
+"""Press enter to play the game""",2
+"""How do I return to main menu?""",1
+"""Arrow alignment minigame is optional""",3
+"""Game returns to title screen when quitting""",1
+"""Quit option is grayed out during cutscenes""",1
+"""Gameplay tutorial starts automatically""",2
+"""Arrows change color based on alignment accuracy""",3
+"""Gameplay difficulty can't be changed after starting""",2
+"""Follow the arrow to reach destination""",3
+"""Click the pause button in the top right corner""",0
+"""How do I return to main menu?""",1
+"""Pause menu music volume slider""",0
+"""Pause menu button can be remapped""",0
+"""Press any button to play""",2
+"""Press Q to quit to main menu""",1
+"""Quit to menu saves automatically""",1
+"""All players must agree to quit to menu""",1
+"""Confirm quit to menu with Y key""",1
+"""Can't unpause game after opening menu""",0
+"""Pause menu has performance metrics""",0
+"""Press ESC to access the pause menu""",0
+"""Accidentally quit to menu without saving""",1
+"""Align the symbols with the arrow markers""",3
+"""Accidentally quit to menu without saving""",1
+"""Pause menu has performance metrics""",0
+"""Align the symbols with the arrow markers""",3
+"""Mission marker appears as floating arrow""",3
+"""Can't unpause game after opening menu""",0
+"""Quit to menu button needs double click""",1
+"""Gameplay controls appear on first play""",2
+"""Pause menu music volume slider""",0
+"""Arrow alignment affects ending""",3
+"""Align your character with the golden arrow""",3
+"""Where is the quit option located?""",1
+"""Network games require host to quit to menu""",1
+"""Need to access settings from pause screen""",0
+"""The golden arrow guides you through the level""",3
+"""Arrow direction indicates proper orientation""",3
+"""Pause menu button can be remapped""",0
+"""Gameplay speed can be adjusted""",2
+"""Gameplay starts after loading finishes""",2
+"""Network games require host to quit to menu""",1
+"""Playing the game unlocks achievements""",2
+"""Continue option loads last saved game""",2
+"""Arrows change color based on alignment accuracy""",3
+"""Play demo button available on store page""",2
+"""Accidentally quit to menu without saving""",1
+"""Hidden arrows reveal secret paths""",3
+"""Alt+F4 forces quit to menu""",1
+"""Multiple arrows need simultaneous alignment""",3
+"""Play demo button available on store page""",2
+"""Confirm quit to menu with Y key""",1
+"""Gameplay controls appear on first play""",2
+"""Quit to menu button needs double click""",1
+"""Click play to start the adventure""",2
+"""Quick quit option available in debug mode""",1
+"""Pause menu options: save, load, settings""",0
+"""Play demo button available on store page""",2
+"""Network games require host to quit to menu""",1
+"""Quit to menu button needs double click""",1
+"""Confirm quit to menu with Y key""",1
+"""Need to access settings from pause screen""",0
+"""Quit to menu option missing from pause screen""",1
+"""Pause menu has accessibility options""",0
+"""Game returns to title screen when quitting""",1
+"""Pause menu has performance metrics""",0
+"""Game paused, select resume to continue""",0
+"""Broken arrow indicator needs fixing""",3
+"""Pause menu music volume slider""",0
+"""Pause menu has accessibility options""",0
+"""Quit to menu during boss fight restricted""",1
+"""Arrow alignment minigame is optional""",3
+"""Pause menu button can be remapped""",0
+"""Quit to menu option is in settings""",1
+"""To pause, press the start button on your controller""",0
+"""Rotate until arrow turns green""",3
+"""Follow the arrow to reach destination""",3
+"""Pausing the game will stop all action""",0
+"""Arrow points to next objective""",3
+"""Quick quit option available in debug mode""",1
+"""Quit option is grayed out during cutscenes""",1
+"""Custom pause menu backgrounds available""",0
+"""Press Q to quit to main menu""",1
+"""Align the compass with the flashing arrow""",3
+"""Arrow alignment mechanic is confusing""",3
+"""Where is the quit option located?""",1
+"""Rotate until arrow turns green""",3
+"""Select quit game to return to main menu""",1
+"""Custom pause menu backgrounds available""",0
+"""Select new game to play""",2
+"""Press any button to play""",2
+"""Pause menu music volume slider""",0
+"""Press spacebar to start playing""",2
+"""Gameplay speed can be adjusted""",2
+"""Mission marker appears as floating arrow""",3
+"""Pause menu background music is too loud""",0
+"""Press spacebar to start playing""",2
+"""Quit to menu confirmation has countdown""",1
+"""Quitting will lose unsaved progress""",1
+"""Play demo button available on store page""",2
+"""Hidden arrows reveal secret paths""",3
+"""Game returns to title screen when quitting""",1
+"""Press ESC to access the pause menu""",0
+"""Pausing the game will stop all action""",0
+"""Can't unpause game after opening menu""",0
+"""Mission marker appears as floating arrow""",3
+"""Arrow turns red when facing wrong way""",3
+"""Quit to menu option missing from pause screen""",1
+"""Align your character with the golden arrow""",3
+"""Gameplay tutorial starts automatically""",2
+"""Pausing the game will stop all action""",0
+"""Gameplay begins after character selection""",2
+"""Arrow turns red when facing wrong way""",3
+"""Menu paused unexpectedly during gameplay""",0
+"""Follow the arrow to reach destination""",3
+"""Can't unpause game after opening menu""",0
+"""Multiple arrows need simultaneous alignment""",3
+"""Playing the game unlocks achievements""",2
+"""Gameplay starts after loading finishes""",2
+"""Pausing during cutscene skips it""",0
+"""Press spacebar to start playing""",2
+"""Quit to menu button needs double click""",1
+"""Align the compass with the flashing arrow""",3
+"""All players must agree to quit to menu""",1
+"""Pausing during cutscene skips it""",0
+"""Pause menu background music is too loud""",0
+"""Network games require host to quit to menu""",1
+"""Play demo button available on store page""",2
+"""Press Q to quit to main menu""",1
+"""Navigation arrow shows the way forward""",3
+"""Exit to menu confirmation dialog appears""",1
+"""Play demo button available on store page""",2
+"""Gameplay difficulty can't be changed after starting""",2
+"""Game begins when play button is clicked""",2
+"""Can't unpause game after opening menu""",0
+"""Quick quit option available in debug mode""",1
+"""Game returns to title screen when quitting""",1
+"""Pausing during cutscene skips it""",0
+"""Broken arrow indicator needs fixing""",3
+"""Pausing during cutscene skips it""",0
+"""All players must agree to quit to menu""",1
+"""Alt+F4 forces quit to menu""",1
+"""Click the pause button in the top right corner""",0
+"""Play button not responding on title screen""",2
+"""Need to access settings from pause screen""",0
+"""Arrow alignment minigame is optional""",3
+"""Pause menu appears blurry""",0
+"""Play demo button available on store page""",2
+"""Playing the game unlocks achievements""",2
+"""Game paused, select resume to continue""",0
+"""Quit to menu confirmation has countdown""",1
+"""Gameplay starts after loading finishes""",2
+"""Quitting will lose unsaved progress""",1
+"""Gameplay tutorial starts automatically""",2
+"""Play button not responding on title screen""",2
+"""Game returns to title screen when quitting""",1
+"""Click the pause button in the top right corner""",0
+"""Rotate until arrow turns green""",3
+"""Arrow alignment minigame is optional""",3
+"""Press Q to quit to main menu""",1
+"""Game returns to title screen when quitting""",1
+"""Press enter to play the game""",2
+"""Select quit game to return to main menu""",1
+"""Arrow alignment affects ending""",3
+"""Gameplay controls appear on first play""",2
+"""Arrow alignment is required to open the door""",3
+"""Arrow points to next objective""",3
+"""Quit to menu button needs double click""",1
+"""Mission marker appears as floating arrow""",3
+"""Press enter to play the game""",2
+"""Gameplay controls appear on first play""",2
+"""Continue option loads last saved game""",2
+"""Quit to menu option missing from pause screen""",1
+"""New game button starts the gameplay""",2
+"""Play button becomes continue after first launch""",2
+"""Gameplay controls appear on first play""",2
+"""Pause menu has accessibility options""",0
+"""Align with arrow to complete puzzle""",3
+"""Click the pause button in the top right corner""",0
+"""Arrow alignment minigame is optional""",3
+"""Quit to menu option missing from pause screen""",1
+"""Quit to menu confirmation has countdown""",1
+"""Gameplay controls appear on first play""",2
+"""Navigation arrow shows the way forward""",3
+"""To pause, press the start button on your controller""",0
+"""Arrow direction indicates proper orientation""",3
+"""Game paused, select resume to continue""",0
+"""Follow the arrow to reach destination""",3
+"""Pause menu has graphics settings""",0
+"""Pause menu has performance metrics""",0
+"""Quit to menu deactivates achievements""",1
+"""Pause menu background music is too loud""",0
+"""Arrow points to next objective""",3
+"""Pause menu options: save, load, settings""",0
+"""Gameplay begins after character selection""",2
+"""Play tutorial before full game""",2
+"""Custom pause menu backgrounds available""",0
+"""Align the compass with the flashing arrow""",3
+"""Pause menu music volume slider""",0
+"""Pause menu background music is too loud""",0
+"""Align camera with directional arrow""",3
+"""Arrows change color based on alignment accuracy""",3
+"""Play with friends option""",2
+"""Arrow alignment is required to open the door""",3
+"""Quit option is grayed out during cutscenes""",1
+"""Can't unpause game after opening menu""",0
+"""Multiple arrows need simultaneous alignment""",3
+"""Game begins when play button is clicked""",2
+"""Pause menu music volume slider""",0
+"""New game button starts the gameplay""",2
+"""Select new game to play""",2
+"""Pause menu has graphics settings""",0
+"""Gameplay tutorial starts automatically""",2
+"""Align with arrow to complete puzzle""",3
+"""Quit to menu option missing from pause screen""",1
+"""Play button becomes continue after first launch""",2
+"""Align camera with directional arrow""",3
+"""Arrows change color based on alignment accuracy""",3
+"""Arrow alignment mechanic is confusing""",3
+"""Pause menu background music is too loud""",0
+"""Warning appears when trying to quit during mission""",1
+"""Arrow turns red when facing wrong way""",3
+"""Play button becomes continue after first launch""",2
+"""Need to access settings from pause screen""",0
+"""Are you sure you want to quit to menu?""",1
+"""Press ESC to access the pause menu""",0
+"""How do I return to main menu?""",1
+"""Broken arrow indicator needs fixing""",3
+"""Alt+F4 forces quit to menu""",1
+"""Play demo button available on store page""",2
+"""Pause menu music volume slider""",0
+"""Pausing during cutscene skips it""",0
+"""Press any button to play""",2
+"""Press spacebar to start playing""",2
+"""Warning appears when trying to quit during mission""",1
+"""Pause menu appears blurry""",0
+"""Quit to menu saves automatically""",1
+"""Gameplay begins after character selection""",2
+"""Quitting will lose unsaved progress""",1
+"""Pausing during cutscene skips it""",0
+"""Pausing during cutscene skips it""",0
+"""Game returns to title screen when quitting""",1
+"""Pause menu has accessibility options""",0
+"""Multiple arrows need simultaneous alignment""",3
+"""Arrow alignment minigame is optional""",3
+"""Arrow alignment is required to open the door""",3
+"""Press any button to play""",2
+"""Quit to menu saves automatically""",1
+"""Arrow alignment affects ending""",3
+"""Gameplay speed can be adjusted""",2
+"""Where is the quit option located?""",1
+"""Game paused, select resume to continue""",0
+"""Pause menu background music is too loud""",0
+"""Gameplay tutorial starts automatically""",2
+"""Press ESC to access the pause menu""",0
+"""Pause menu background music is too loud""",0
+"""Playing the game unlocks achievements""",2
+"""Pause menu music volume slider""",0
+"""Rotate until arrow turns green""",3
+"""Custom pause menu backgrounds available""",0
+"""Game returns to title screen when quitting""",1
+"""Click play to start the adventure""",2
+"""Play with friends option""",2
+"""Play with friends option""",2
+"""Quit to menu saves automatically""",1
+"""Navigation arrow shows the way forward""",3
+"""Press spacebar to start playing""",2
+"""The golden arrow guides you through the level""",3
+"""Custom pause menu backgrounds available""",0
+"""Arrows change color based on alignment accuracy""",3
+"""Play with friends option""",2
+"""Play button becomes continue after first launch""",2
+"""Pause menu has performance metrics""",0
+"""Press Q to quit to main menu""",1
+"""Quit to menu deactivates achievements""",1
+"""Quit to menu option missing from pause screen""",1
+"""Rotate until arrow turns green""",3
+"""Play with friends option""",2
+"""Quit to menu deactivates achievements""",1
+"""Hidden arrows reveal secret paths""",3
+"""Pause menu button can be remapped""",0
+"""Quit to menu during boss fight restricted""",1
+"""Menu paused unexpectedly during gameplay""",0
+"""The golden arrow guides you through the level""",3
+"""The golden arrow guides you through the level""",3
+"""Press ESC to access the pause menu""",0
+"""Gameplay controls appear on first play""",2
+"""Alt+F4 forces quit to menu""",1
+"""Align the symbols with the arrow markers""",3
+"""Gameplay difficulty can't be changed after starting""",2
+"""Pause menu button can be remapped""",0
+"""Gameplay begins after character selection""",2
+"""Quit option is grayed out during cutscenes""",1
+"""Exit to menu confirmation dialog appears""",1
+"""Pause menu has accessibility options""",0
+"""Pause menu options: save, load, settings""",0
+"""Alt+F4 forces quit to menu""",1
+"""Quit to menu saves automatically""",1
+"""Rotate until arrow turns green""",3
+"""Warning appears when trying to quit during mission""",1
+"""Quit to menu confirmation has countdown""",1
+"""Arrow turns red when facing wrong way""",3
+"""Play tutorial before full game""",2
+"""Game paused, select resume to continue""",0
+"""Pausing the game will stop all action""",0
+"""Quit to menu saves automatically""",1
+"""Arrows change color based on alignment accuracy""",3
+"""Press enter to play the game""",2
+"""Press spacebar to start playing""",2
+"""Continue option loads last saved game""",2
+"""Arrow turns red when facing wrong way""",3
+"""Game paused, select resume to continue""",0
+"""Pausing the game will stop all action""",0
+"""Need to access settings from pause screen""",0
+"""Arrow alignment is required to open the door""",3
+"""Pause menu music volume slider""",0
+"""Align the compass with the flashing arrow""",3
+"""Where is the quit option located?""",1
+"""Arrow points to next objective""",3
+"""Click play to start the adventure""",2
+"""Gameplay starts after loading finishes""",2
+"""Pause menu background music is too loud""",0
+"""Gameplay tutorial starts automatically""",2
+"""Press enter to play the game""",2
+"""Quit to menu option missing from pause screen""",1
+"""Arrow alignment puzzle is timed""",3
+"""Pause menu music volume slider""",0
+"""Game returns to title screen when quitting""",1
+"""Press any button to play""",2
+"""Arrow alignment affects ending""",3
+"""The golden arrow guides you through the level""",3
+"""Play button not responding on title screen""",2
+"""Play button becomes continue after first launch""",2
+"""Alt+F4 forces quit to menu""",1
+"""Click the pause button in the top right corner""",0
+"""Pausing during cutscene skips it""",0
+"""Pause menu has performance metrics""",0
+"""Can't unpause game after opening menu""",0
+"""Game won't start when clicking play""",2
+"""Quit to menu button needs double click""",1
+"""Where is the quit option located?""",1
+"""Arrow direction indicates proper orientation""",3
+"""Arrow alignment is required to open the door""",3
+"""Follow the arrow to reach destination""",3
+"""Pause menu appears blurry""",0
+"""Select quit game to return to main menu""",1
+"""Quit to menu saves automatically""",1
+"""Pause menu options: save, load, settings""",0
+"""Playing the game unlocks achievements""",2
+"""Play button becomes continue after first launch""",2
+"""Arrows change color based on alignment accuracy""",3
+"""Pausing the game will stop all action""",0
+"""Quit to menu saves automatically""",1
+"""Pause menu appears blurry""",0
+"""Press any button to play""",2
+"""Hidden arrows reveal secret paths""",3
+"""Pausing the game will stop all action""",0
+"""Multiple arrows need simultaneous alignment""",3
+"""Are you sure you want to quit to menu?""",1
+"""Align your character with the golden arrow""",3
+"""Pausing during cutscene skips it""",0
+"""Press enter to play the game""",2
+"""Follow the arrow to reach destination""",3
+"""Quick quit option available in debug mode""",1
+"""Play demo button available on store page""",2
+"""Align the symbols with the arrow markers""",3
+"""Arrow alignment minigame is optional""",3
+"""Gameplay begins after character selection""",2
+"""Play with friends option""",2
+"""Quitting will lose unsaved progress""",1
+"""Play demo button available on store page""",2
+"""Pause menu music volume slider""",0
+"""Align the symbols with the arrow markers""",3
+"""Pause menu has graphics settings""",0
+"""All players must agree to quit to menu""",1
+"""Menu paused unexpectedly during gameplay""",0
+"""Warning appears when trying to quit during mission""",1
+"""Quit to menu saves automatically""",1
+"""New game button starts the gameplay""",2
+"""Network games require host to quit to menu""",1
+"""Gameplay speed can be adjusted""",2
+"""Press ESC to access the pause menu""",0
+"""Pausing during cutscene skips it""",0
+"""Need to access settings from pause screen""",0
+"""Multiplayer mode requires all players to press play""",2
+"""Confirm quit to menu with Y key""",1
+"""Quit to menu option is in settings""",1
+"""Gameplay starts after loading finishes""",2
+"""Menu paused unexpectedly during gameplay""",0
+"""Quit to menu button needs double click""",1
+"""Press spacebar to start playing""",2
+"""Arrow alignment mechanic is confusing""",3
+"""Quit to menu option is in settings""",1
+"""Play button not responding on title screen""",2
+"""Arrow alignment mechanic is confusing""",3
+"""Need to access settings from pause screen""",0
+"""Gameplay speed can be adjusted""",2
+"""Quit to menu saves automatically""",1
+"""Play button becomes continue after first launch""",2
+"""Play button becomes continue after first launch""",2
+"""Arrow points to next objective""",3
+"""Are you sure you want to quit to menu?""",1
+"""Press Q to quit to main menu""",1
+"""Confirm quit to menu with Y key""",1
+"""Gameplay difficulty can't be changed after starting""",2
+"""Arrow alignment affects ending""",3
+"""Align the compass with the flashing arrow""",3
+"""Quit option is grayed out during cutscenes""",1
+"""Mission marker appears as floating arrow""",3
+"""Align camera with directional arrow""",3
+"""Align with arrow to complete puzzle""",3
+"""Pause menu appears blurry""",0
+"""Pausing the game will stop all action""",0
+"""Hidden arrows reveal secret paths""",3
+"""Pause menu appears blurry""",0
+"""Arrows change color based on alignment accuracy""",3
+"""Network games require host to quit to menu""",1
+"""Navigation arrow shows the way forward""",3
+"""Can't unpause game after opening menu""",0
+"""Pausing during cutscene skips it""",0
+"""Press any button to play""",2
+"""Press any button to play""",2
+"""Hidden arrows reveal secret paths""",3
+"""Press any button to play""",2
+"""How do I return to main menu?""",1
+"""Exit to menu confirmation dialog appears""",1
+"""Quit to menu during boss fight restricted""",1
+"""Quit to menu confirmation has countdown""",1
+"""Arrow direction indicates proper orientation""",3
+"""Menu paused unexpectedly during gameplay""",0
+"""Gameplay tutorial starts automatically""",2
+"""Arrow alignment mechanic is confusing""",3
+"""Select quit game to return to main menu""",1
+"""Play button not responding on title screen""",2
+"""Where is the quit option located?""",1
+"""Align your character with the golden arrow""",3
+"""Align camera with directional arrow""",3
+"""Multiplayer mode requires all players to press play""",2
+"""Pause menu music volume slider""",0
+"""Pausing the game will stop all action""",0
+"""Pause menu button can be remapped""",0
+"""Pause menu options: save, load, settings""",0
+"""Arrow alignment minigame is optional""",3
+"""Quit to menu during boss fight restricted""",1
+"""Quit to menu during boss fight restricted""",1
+"""Arrow alignment minigame is optional""",3
+"""Press any button to play""",2
+"""Pause menu has graphics settings""",0
+"""Rotate until arrow turns green""",3
+"""Quick quit option available in debug mode""",1
+"""Are you sure you want to quit to menu?""",1
+"""Align your character with the golden arrow""",3
+"""Arrow alignment minigame is optional""",3
+"""Arrow alignment affects ending""",3
+"""Click the pause button in the top right corner""",0
+"""Pause menu has performance metrics""",0
+"""Can't unpause game after opening menu""",0
+"""Game won't start when clicking play""",2
+"""Quit to menu confirmation has countdown""",1
+"""Pause menu button can be remapped""",0
+"""Navigation arrow shows the way forward""",3
+"""Pause menu music volume slider""",0
+"""Alt+F4 forces quit to menu""",1
+"""New game button starts the gameplay""",2
+"""Accidentally quit to menu without saving""",1
+"""Arrows change color based on alignment accuracy""",3
+"""Arrows change color based on alignment accuracy""",3
+"""Pause menu options: save, load, settings""",0
+"""Click play to start the adventure""",2
+"""Press Q to quit to main menu""",1
+"""Warning appears when trying to quit during mission""",1
+"""Play demo button available on store page""",2
+"""Arrow direction indicates proper orientation""",3
+"""The golden arrow guides you through the level""",3
+"""Quick quit option available in debug mode""",1
+"""Press enter to play the game""",2
+"""Custom pause menu backgrounds available""",0
+"""Game begins when play button is clicked""",2
+"""Confirm quit to menu with Y key""",1
+"""New game button starts the gameplay""",2
+"""Click play to start the adventure""",2
+"""Pause menu options: save, load, settings""",0
+"""Pause menu appears blurry""",0
+"""Pause menu appears blurry""",0
+"""Arrows change color based on alignment accuracy""",3
+"""Pausing the game will stop all action""",0
+"""Rotate until arrow turns green""",3
+"""Follow the arrow to reach destination""",3
+"""Pause menu options: save, load, settings""",0
+"""Quit to menu saves automatically""",1
+"""Play with friends option""",2
+"""Pause menu appears blurry""",0
+"""Pause menu button can be remapped""",0
+"""Are you sure you want to quit to menu?""",1
+"""Align the symbols with the arrow markers""",3
+"""Arrow alignment is required to open the door""",3
+"""Alt+F4 forces quit to menu""",1
+"""Quit to menu button needs double click""",1
+"""Menu paused unexpectedly during gameplay""",0
+"""Pausing the game will stop all action""",0
+"""Arrow alignment puzzle is timed""",3
+"""Arrow points to next objective""",3
+"""Pause menu background music is too loud""",0
+"""Pause menu has graphics settings""",0
+"""Arrows change color based on alignment accuracy""",3
+"""Gameplay difficulty can't be changed after starting""",2
+"""Press Q to quit to main menu""",1
+"""Need to access settings from pause screen""",0
+"""Arrows change color based on alignment accuracy""",3
+"""Rotate until arrow turns green""",3
+"""Select quit game to return to main menu""",1
+"""Quit to menu option missing from pause screen""",1
+"""Arrow turns red when facing wrong way""",3
+"""Press spacebar to start playing""",2
+"""Arrow points to next objective""",3
+"""Align with arrow to complete puzzle""",3
+"""Navigation arrow shows the way forward""",3
+"""Quit to menu during boss fight restricted""",1
+"""Continue option loads last saved game""",2
+"""Arrow alignment is required to open the door""",3
+"""Where is the quit option located?""",1
+"""Press ESC to access the pause menu""",0
+"""Menu paused unexpectedly during gameplay""",0
+"""New game button starts the gameplay""",2
+"""Play demo button available on store page""",2
+"""Playing the game unlocks achievements""",2
+"""Select new game to play""",2
+"""The golden arrow guides you through the level""",3
+"""Click play to start the adventure""",2
+"""Arrow points to next objective""",3
+"""Quit to menu confirmation has countdown""",1
+"""Need to access settings from pause screen""",0
+"""Where is the quit option located?""",1
+"""Gameplay speed can be adjusted""",2
+"""Quitting will lose unsaved progress""",1
+"""Pause menu appears blurry""",0
+"""Quit to menu deactivates achievements""",1
+"""Align with arrow to complete puzzle""",3
+"""Arrow direction indicates proper orientation""",3
+"""Pause menu has performance metrics""",0
+"""Where is the quit option located?""",1
+"""Gameplay speed can be adjusted""",2
+"""Where is the quit option located?""",1
+"""All players must agree to quit to menu""",1
+"""Hidden arrows reveal secret paths""",3
+"""Pause menu has accessibility options""",0
+"""Select quit game to return to main menu""",1
+"""Game won't start when clicking play""",2
+"""Pause menu background music is too loud""",0
+"""Press Q to quit to main menu""",1
+"""Press Q to quit to main menu""",1
+"""Arrow alignment puzzle is timed""",3
+"""Warning appears when trying to quit during mission""",1
+"""To pause, press the start button on your controller""",0
+"""Click play to start the adventure""",2
+"""Broken arrow indicator needs fixing""",3
+"""Quit to menu deactivates achievements""",1
+"""Click play to start the adventure""",2
+"""Pausing the game will stop all action""",0
+"""Quit to menu during boss fight restricted""",1
+"""Navigation arrow shows the way forward""",3
+"""Quit option is grayed out during cutscenes""",1
+"""Align camera with directional arrow""",3
+"""Press ESC to access the pause menu""",0
+"""Playing the game unlocks achievements""",2
+"""Game paused, select resume to continue""",0
+"""Press ESC to access the pause menu""",0
+"""Gameplay tutorial starts automatically""",2
+"""The golden arrow guides you through the level""",3
+"""Quit to menu option missing from pause screen""",1
+"""Gameplay tutorial starts automatically""",2
+"""Pause menu appears blurry""",0
+"""Accidentally quit to menu without saving""",1
+"""Custom pause menu backgrounds available""",0
+"""Custom pause menu backgrounds available""",0
+"""Quit to menu button needs double click""",1
+"""Navigation arrow shows the way forward""",3
+"""Pause menu music volume slider""",0
+"""Play button becomes continue after first launch""",2
+"""Play button not responding on title screen""",2
+"""Arrow alignment affects ending""",3
+"""Pause menu background music is too loud""",0
+"""Quit option is grayed out during cutscenes""",1
+"""Pause menu button can be remapped""",0
+"""Align the compass with the flashing arrow""",3
+"""Pause menu has accessibility options""",0
+"""Quick quit option available in debug mode""",1
+"""Pause menu options: save, load, settings""",0
+"""Press spacebar to start playing""",2
+"""Quit to menu option missing from pause screen""",1
+"""Quit to menu confirmation has countdown""",1
+"""Network games require host to quit to menu""",1
+"""Continue option loads last saved game""",2
+"""New game button starts the gameplay""",2
+"""Select quit game to return to main menu""",1
+"""Confirm quit to menu with Y key""",1
+"""Arrow alignment mechanic is confusing""",3
+"""Need to access settings from pause screen""",0
+"""To pause, press the start button on your controller""",0
+"""Align your character with the golden arrow""",3
+"""Multiple arrows need simultaneous alignment""",3
+"""Arrow alignment affects ending""",3
+"""Gameplay controls appear on first play""",2
+"""Custom pause menu backgrounds available""",0
+"""Where is the quit option located?""",1
+"""Play tutorial before full game""",2
+"""Play button becomes continue after first launch""",2
+"""Gameplay starts after loading finishes""",2
+"""Arrow alignment minigame is optional""",3
+"""Align the symbols with the arrow markers""",3
+"""Are you sure you want to quit to menu?""",1
+"""Quit to menu during boss fight restricted""",1
+"""Pause menu has graphics settings""",0
+"""Pause menu has performance metrics""",0
+"""Play demo button available on store page""",2
+"""Arrow turns red when facing wrong way""",3
+"""Select new game to play""",2
+"""Play button not responding on title screen""",2
+"""Accidentally quit to menu without saving""",1
+"""Continue option loads last saved game""",2
+"""Press enter to play the game""",2
+"""Gameplay begins after character selection""",2
+"""Pause menu options: save, load, settings""",0
+"""Pausing the game will stop all action""",0
+"""All players must agree to quit to menu""",1
+"""Quitting will lose unsaved progress""",1
+"""Can't unpause game after opening menu""",0
+"""Game paused, select resume to continue""",0
+"""Quitting will lose unsaved progress""",1
+"""Need to access settings from pause screen""",0
+"""Arrow points to next objective""",3
+"""Arrow points to next objective""",3
+"""Exit to menu confirmation dialog appears""",1
+"""All players must agree to quit to menu""",1
+"""Align your character with the golden arrow""",3
+"""Arrow direction indicates proper orientation""",3
+"""Click play to start the adventure""",2
+"""How do I return to main menu?""",1
+"""Pause menu music volume slider""",0
+"""Quit option is grayed out during cutscenes""",1
+"""Press Q to quit to main menu""",1
+"""Arrow alignment mechanic is confusing""",3
+"""Are you sure you want to quit to menu?""",1
+"""Pause menu appears blurry""",0
+"""Select new game to play""",2
+"""Custom pause menu backgrounds available""",0
+"""Pause menu music volume slider""",0
+"""Play demo button available on store page""",2
+"""Play button becomes continue after first launch""",2
+"""Gameplay controls appear on first play""",2
+"""Need to access settings from pause screen""",0
+"""Mission marker appears as floating arrow""",3
+"""Where is the quit option located?""",1
+"""Menu paused unexpectedly during gameplay""",0
+"""Playing the game unlocks achievements""",2
+"""Can't unpause game after opening menu""",0
+"""Quit to menu button needs double click""",1
+"""Rotate until arrow turns green""",3
+"""Press ESC to access the pause menu""",0
+"""Multiple arrows need simultaneous alignment""",3
+"""Arrow points to next objective""",3
+"""Play tutorial before full game""",2
+"""Arrow alignment mechanic is confusing""",3
+"""Press ESC to access the pause menu""",0
+"""Click the pause button in the top right corner""",0
+"""Accidentally quit to menu without saving""",1
+"""Press Q to quit to main menu""",1
+"""The golden arrow guides you through the level""",3
+"""Playing the game unlocks achievements""",2
+"""Gameplay speed can be adjusted""",2
+"""Play button becomes continue after first launch""",2
+"""Quit to menu option is in settings""",1
+"""Select new game to play""",2
+"""Playing the game unlocks achievements""",2
+"""Gameplay difficulty can't be changed after starting""",2
+"""Play button becomes continue after first launch""",2
+"""Gameplay tutorial starts automatically""",2
+"""Pause menu has performance metrics""",0
+"""Gameplay begins after character selection""",2
+"""Quitting will lose unsaved progress""",1
+"""Quitting will lose unsaved progress""",1
+"""Play button not responding on title screen""",2
+"""Arrow alignment mechanic is confusing""",3
+"""Warning appears when trying to quit during mission""",1
+"""All players must agree to quit to menu""",1
+"""Arrow alignment mechanic is confusing""",3
+"""Gameplay tutorial starts automatically""",2
+"""New game button starts the gameplay""",2
+"""Arrow alignment puzzle is timed""",3
+"""Can't unpause game after opening menu""",0
+"""Pause menu appears blurry""",0
+"""Mission marker appears as floating arrow""",3
+"""Pausing during cutscene skips it""",0
+"""Arrow direction indicates proper orientation""",3
+"""Align the symbols with the arrow markers""",3
+"""Menu paused unexpectedly during gameplay""",0
+"""Can't unpause game after opening menu""",0
+"""Navigation arrow shows the way forward""",3
+"""Gameplay difficulty can't be changed after starting""",2
+"""Continue option loads last saved game""",2
+"""To pause, press the start button on your controller""",0
+"""Gameplay difficulty can't be changed after starting""",2
+"""Gameplay speed can be adjusted""",2
+"""Arrow turns red when facing wrong way""",3
+"""Play button not responding on title screen""",2
+"""Play button not responding on title screen""",2
+"""Alt+F4 forces quit to menu""",1
+"""Press any button to play""",2
+"""Click the pause button in the top right corner""",0
+"""Pause menu has graphics settings""",0
+"""Pause menu has accessibility options""",0
+"""Pause menu button can be remapped""",0
+"""The golden arrow guides you through the level""",3
+"""Custom pause menu backgrounds available""",0
+"""Align your character with the golden arrow""",3
+"""New game button starts the gameplay""",2
+"""Confirm quit to menu with Y key""",1
+"""New game button starts the gameplay""",2
+"""Pause menu button can be remapped""",0
+"""Play with friends option""",2
+"""Press enter to play the game""",2
+"""Pause menu music volume slider""",0
+"""How do I return to main menu?""",1
+"""Play tutorial before full game""",2
+"""Pause menu options: save, load, settings""",0
+"""Rotate until arrow turns green""",3
+"""Pause menu has graphics settings""",0
+"""To pause, press the start button on your controller""",0
+"""Rotate until arrow turns green""",3
+"""Select new game to play""",2
+"""Click play to start the adventure""",2
+"""Press any button to play""",2
+"""Quit to menu during boss fight restricted""",1
+"""Warning appears when trying to quit during mission""",1
+"""Play button becomes continue after first launch""",2
+"""Gameplay difficulty can't be changed after starting""",2
+"""Press ESC to access the pause menu""",0
+"""Continue option loads last saved game""",2
+"""Align with arrow to complete puzzle""",3
+"""Press ESC to access the pause menu""",0
+"""Game begins when play button is clicked""",2
+"""Press enter to play the game""",2
+"""Press enter to play the game""",2
+"""Arrows change color based on alignment accuracy""",3
+"""Where is the quit option located?""",1
+"""Gameplay tutorial starts automatically""",2
+"""Gameplay starts after loading finishes""",2
+"""Arrow direction indicates proper orientation""",3
+"""Pause menu options: save, load, settings""",0
+"""Network games require host to quit to menu""",1
+"""Exit to menu confirmation dialog appears""",1
+"""Pause menu button can be remapped""",0
+"""Pausing the game will stop all action""",0
+"""Align camera with directional arrow""",3
+"""Multiple arrows need simultaneous alignment""",3
+"""Rotate until arrow turns green""",3
+"""Play with friends option""",2
+"""Game won't start when clicking play""",2
+"""Game returns to title screen when quitting""",1
+"""The golden arrow guides you through the level""",3
+"""Click the pause button in the top right corner""",0
+"""Broken arrow indicator needs fixing""",3
+"""Select new game to play""",2
+"""Pause menu button can be remapped""",0
+"""Game won't start when clicking play""",2
+"""Hidden arrows reveal secret paths""",3
+"""Pause menu has graphics settings""",0
+"""To pause, press the start button on your controller""",0
+"""Quit option is grayed out during cutscenes""",1
+"""Follow the arrow to reach destination""",3
+"""Pause menu has accessibility options""",0
+"""Warning appears when trying to quit during mission""",1
+"""Where is the quit option located?""",1
+"""Menu paused unexpectedly during gameplay""",0
+"""Gameplay difficulty can't be changed after starting""",2
+"""Arrow alignment affects ending""",3
+"""Pause menu background music is too loud""",0
+"""Gameplay speed can be adjusted""",2
+"""Align with arrow to complete puzzle""",3
+"""Arrow alignment mechanic is confusing""",3
+"""Pause menu has accessibility options""",0
+"""Network games require host to quit to menu""",1
+"""Game returns to title screen when quitting""",1
+"""Quit to menu option missing from pause screen""",1
+"""Pause menu appears blurry""",0
+"""Select quit game to return to main menu""",1
+"""Pause menu has performance metrics""",0
+"""Arrow alignment affects ending""",3
+"""Press ESC to access the pause menu""",0
+"""Click the pause button in the top right corner""",0
+"""Continue option loads last saved game""",2
+"""Pause menu has performance metrics""",0
+"""Pause menu appears blurry""",0
+"""Menu paused unexpectedly during gameplay""",0
+"""Pause menu options: save, load, settings""",0
+"""Quit to menu option missing from pause screen""",1
+"""Press Q to quit to main menu""",1
+"""Press any button to play""",2
+"""Rotate until arrow turns green""",3
+"""Quit to menu option is in settings""",1
+"""Arrow turns red when facing wrong way""",3
+"""Press Q to quit to main menu""",1
+"""Custom pause menu backgrounds available""",0
+"""Arrow alignment minigame is optional""",3
+"""Quitting will lose unsaved progress""",1
+"""Pause menu appears blurry""",0
+"""Pause menu options: save, load, settings""",0
+"""Game begins when play button is clicked""",2
+"""Warning appears when trying to quit during mission""",1
+"""Pause menu options: save, load, settings""",0
+"""Mission marker appears as floating arrow""",3
+"""Arrow alignment minigame is optional""",3
+"""Are you sure you want to quit to menu?""",1
+"""Game returns to title screen when quitting""",1
+"""Pause menu options: save, load, settings""",0
+"""Multiplayer mode requires all players to press play""",2
+"""Click the pause button in the top right corner""",0
+"""Custom pause menu backgrounds available""",0
+"""Press any button to play""",2
+"""Press Q to quit to main menu""",1
+"""Game begins when play button is clicked""",2
+"""Broken arrow indicator needs fixing""",3
+"""Warning appears when trying to quit during mission""",1
+"""Custom pause menu backgrounds available""",0
+"""Game paused, select resume to continue""",0
+"""Playing the game unlocks achievements""",2
+"""Pause menu has accessibility options""",0
+"""Follow the arrow to reach destination""",3
+"""Pause menu appears blurry""",0
+"""Pause menu button can be remapped""",0
+"""Arrow direction indicates proper orientation""",3
+"""Play tutorial before full game""",2
+"""Play button becomes continue after first launch""",2
